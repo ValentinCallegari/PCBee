@@ -71,7 +71,7 @@ You can download the provided **CAD files** and check the assembly to get an ide
 - 2 × Relay Boards *(optional, used to toggle spindle/aspiration via gcode)*  
 - 3 × Stepper Drivers *(A4988 recommended for low cost)*  
 - 3 × NEMA 17 Stepper Motors  
-- 1 × 12V "Super Slim LED Strip" PSU *(~300W is plenty)*  
+- 1 × 12V "Super Slim LED Strip" PSU *(~300W is plenty). Some 775 motors can also work with 24V*  
 
 ---
 
