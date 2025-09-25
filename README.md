@@ -1,4 +1,4 @@
-# Tiny CNC for PCBs
+# A Tiny CNC for PCBs
 
 A small CNC machine for milling Printed Circuit Boards.  
 It can also handle engraving and light milling tasks.  
@@ -6,6 +6,12 @@ It can also handle engraving and light milling tasks.
 *Batteries not included.* ⚡
 
 ---
+## ⚠️ Warning
+
+While the machine design is complete, the **BOM is not fully finalized**.  
+Screws, nuts, and other fasteners are not yet listed.  
+
+You can download the provided **CAD files** and check the assembly to get an idea of the exact fasteners required.  
 
 ## 📐 Machine Specifications
 
