@@ -5,6 +5,7 @@ It can also handle engraving and light milling tasks.
 
 *Batteries not included.* ⚡
 
+https://i.imgur.com/JoSeEDC.png
 ---
 ## ⚠️ Warning
 
