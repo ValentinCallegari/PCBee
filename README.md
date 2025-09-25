@@ -56,7 +56,7 @@ You can download the provided **CAD files** and check the assembly to get an ide
 ---
 
 ### Other
-- 3 × Shaft Couplers *(avoid the "spring" type)*  
+- 3 × Shaft Couplers *(avoid the "spring" type since those can cause backslash)*  
 - 2 × TR8 Leadscrews 210 mm + Anti-Backlash Nuts → **X and Y axis**  
 - 1 × TR8 Leadscrew 100 mm + Normal Nut → **Z axis**  
 
