@@ -77,8 +77,10 @@ You can download the provided **CAD files** and check the assembly to get an ide
 
 ## 🚧 Notes
 
-- Design is intended for **PCB milling**, but it’s versatile enough for **engraving** and light material removal.  
-- Many components can be swapped with equivalents depending on what you have on hand.  
+- Design is intended for **PCB milling**, but it’s versatile enough for engraving and **VERY** light material removal.  
+- Many components can be swapped with equivalents depending on what you have on hand.
+
+  FEEL FREE TO FORK AND MODIFY!
 
 ---
 
