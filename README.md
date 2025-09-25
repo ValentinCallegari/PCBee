@@ -8,7 +8,7 @@ It can also handle engraving and light milling tasks.
 ---
 ## ⚠️ Warning
 
-While the machine design is complete, the **BOM is not fully finalized**.  
+While the machine design is pretty much complete, the **BOM is not fully finalized** and i still have to add some stuff like a proper enclosure for electronics.
 Screws, nuts, and other fasteners are not yet listed.  
 
 You can download the provided **CAD files** and check the assembly to get an idea of the exact fasteners required.  
