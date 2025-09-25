@@ -5,7 +5,7 @@ It can also handle engraving and light milling tasks.
 
 *Batteries not included.* ⚡
 
-![render](https://i.imgur.com/JoSeEDC.png)
+![render](https://i.imgur.com/znWL22Z.png)
 
 ---
 ## ⚠️ Warning
