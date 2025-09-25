@@ -1,7 +1,7 @@
-# A Tiny CNC for PCBs
+# PCBee
 
-A small CNC machine for milling Printed Circuit Boards.  
-It can also handle engraving and light milling tasks.  
+A small CNC machine for milling PCBs
+It can also handle engraving and light milling tasks. 
 
 *Batteries not included.* ⚡
 
