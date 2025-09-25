@@ -30,8 +30,7 @@ You can download the provided **CAD files** and check the assembly to get an ide
 ## 🧰 Bill of Materials (BOM)
 
 ### Printed Parts
-- Can also be **laser-cut, milled, or even cut by hand**.  
-- DXF files are provided.  
+- Can also be **laser-cut, milled, or even cut by hand**. DXF files are provided.  
 
 ---
 
